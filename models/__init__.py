@@ -1,2 +1,2 @@
-from models.Employee import Employee
-from models.Employee import db
+from models.employee import Employee
+from models.employee import db
